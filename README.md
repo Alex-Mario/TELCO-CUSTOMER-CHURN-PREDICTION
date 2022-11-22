@@ -1,8 +1,8 @@
 # TELCO-CUSTOMER-CHURN-PREDICTION
-##Context
+## Context
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 
-##Content
+## Content
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 The data set includes information about:
@@ -12,7 +12,7 @@ Services that each customer has signed up for – phone, multiple lines, interne
 Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-##Feature Descriptions
+## Feature Descriptions
 customerID - Customer's ID.
 
 gender - Customer's gender.
